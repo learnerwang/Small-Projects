@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Five.ico</file>
+        <file>img/black.jpg</file>
+        <file>img/white.jpg</file>
+    </qresource>
+</RCC>
